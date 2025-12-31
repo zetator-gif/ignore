@@ -13,3 +13,9 @@ https://www.dawn.com/news/1964254
 https://en.wikipedia.org/wiki/A_History_of_the_Theories_of_Aether_and_Electricity
 https://en.wikipedia.org/wiki/Analytical_Dynamics_of_Particles_and_Rigid_Bodies
 https://en.wikipedia.org/wiki/Michelson%E2%80%93Morley_experiment
+</br>
+</br>
+https://tweakers.net/
+</br>
+https://tudelft.on.worldcat.org/search/detail/840269566?queryString=raymond%20serway&bookReviews=off&newsArticles=off&idDetect=true&clusterResults=false&groupVariantRecords=true
+</br>
