@@ -8,3 +8,8 @@ https://unctad.org/
 https://www.wto.org/
 https://www.latimes.com/world-nation/story/2020-06-25/taipeis-homeless-are-few-but-desperate
 https://www.dawn.com/news/1964254
+</br>
+</br>
+https://en.wikipedia.org/wiki/A_History_of_the_Theories_of_Aether_and_Electricity
+https://en.wikipedia.org/wiki/Analytical_Dynamics_of_Particles_and_Rigid_Bodies
+https://en.wikipedia.org/wiki/Michelson%E2%80%93Morley_experiment
