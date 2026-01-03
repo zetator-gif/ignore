@@ -1,3 +1,1 @@
-\[
-\frac{\partial u}{\partial x}
-\]
+$\frac{\partial u}{\partial x}$
