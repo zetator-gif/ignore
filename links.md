@@ -25,3 +25,5 @@ https://www.unigone.com/en/references/telserver-references
 https://www.3gpp.org/images/2024/07/17/rel19_priorities.jpg
 https://trepo.tuni.fi/bitstream/handle/10024/148044/ArvajaMikael.pdf?sequence=2&isAllowed=y
 https://pypi.org/project/pandas-profiling/
+https://www.google.com/search?oq=system+verilog&sourceid=chrome&ie=UTF-8&q=system+verilog
+https://trepo.tuni.fi/bitstream/handle/10024/148044/ArvajaMikael.pdf?sequence=2&isAllowed=y
